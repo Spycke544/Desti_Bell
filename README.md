@@ -1,4 +1,4 @@
-Script de notification pour le serveur FiveM Destinée PVE | PVP
+Script de notification pour leS serveurS FiveM
 Un système léger permettant d’alerter les administrateurs lorsqu’un joueur rejoint un channel vocal
 
 ✨ Fonctionnalités
