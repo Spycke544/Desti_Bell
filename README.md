@@ -1,17 +1,40 @@
-🔔 desti_bell
-
-desti_bell est un script de notification conçu pour alerter automatiquement les administrateurs lorsqu’un joueur rejoint un channel vocal.
+Script de notification pour le serveur FiveM Destinée PVE | PVP
+Un système léger permettant d’alerter les administrateurs lorsqu’un joueur rejoint un channel vocal
 
 ✨ Fonctionnalités
 
-📢 Notification instantanée dès qu’un joueur entre dans un salon vocal
+🔔 Notification instantanée – Alerte automatique lorsqu’un joueur entre en vocal
+👤 Identification du joueur – Affichage clair du nom du joueur connecté
+🎙️ Détection des channels vocaux – Surveillance des salons configurés
+👮 Système dédié staff – Notifications réservées aux administrateurs
+⚡ Léger et optimisé – Impact minimal sur les performances
+🔧 Configuration simple – Paramétrage rapide et personnalisable
 
-👮 Système dédié aux administrateurs / modérateurs
+📥 Installation
 
-⚡ Léger, rapide et facile à intégrer
+⬇️ Télécharger desti_bell
+Placez le dossier desti_bell dans votre dossier resources
+Ajoutez ensure desti_bell dans votre server.cfg
+Redémarrez votre serveur
 
-🔧 Configuration simple et adaptable
+📋 Configuration requise
 
-🎯 Objectif
+Système : Serveur FiveM fonctionnel
+Framework : Compatible selon votre configuration (ESX / QB / autre)
+Connexion : Serveur en ligne requis
 
-Permettre aux équipes d’administration de surveiller efficacement l’activité vocale et d’intervenir rapidement si nécessaire.
+❓ FAQ
+
+Les notifications ne s’affichent pas ?
+
+Vérifiez que la ressource est bien démarrée dans votre server.cfg.
+
+Les mauvais channels sont détectés ?
+
+Vérifiez la configuration des salons surveillés dans le fichier config.lua.
+
+📞 Support
+
+Besoin d’aide ? Contactez l’équipe staff via Discord.
+
+Fait avec ❤️ pour la communauté Destinée PVE | PVP
